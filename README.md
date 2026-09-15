@@ -14,7 +14,7 @@ Built classification models achieving **85% accuracy** and designed interactive 
 
 ## 💼 Professional Experience
 
-### 🏫 GM Global School &nbsp;|&nbsp; *Oct 2023 – Apr 2024 · Udupi*
+### 🏫 GM Global School &nbsp;|&nbsp; *2023 – 2024 · Udupi*
 > Taught Mathematics, covering quantitative concepts, logical reasoning, problem-solving, and foundational statistical concepts.
 
 ---
