@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pooja Parashuram Bajantri
-### Data Science | ML Engineer 
+### AI Specialist Intern | Data Science | ML Engineer 
 **B.E. (Computer Science) Graduate | IIT-M Advanced Programming & Master Data Science | Production-Ready ML Systems**
 
 ---
