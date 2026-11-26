@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pooja Parashuram Bajantri
-### AI Specialist Intern | Data Science | ML Engineer 
-**B.E. (Computer Science) Graduate | IIT-M Advanced Programming & Master Data Science | Production-Ready ML Systems**
+### AI Specialist Intern @ HCL GUVI | Machine Learning | Deep Learning | Generative AI   
+**B.E. (Computer Science) Graduate | Advanced Master Data Science – IITM Pravartak | Building Practical AI Applications**
 
 ---
 
@@ -14,7 +14,15 @@ Built classification models achieving **85% accuracy** and designed interactive 
 
 ## 💼 Professional Experience
 
-### 🏫 GM Global School &nbsp;|&nbsp; *2023 – 2024 · Udupi*
+### AI Specialist Intern — HCL GUVI | 2026 – Present
+- Contribute to AI and Machine Learning educational content development, covering concepts across ML, Deep Learning, NLP, and Generative AI.
+- Research LLMs, Hugging Face models, inference workflows, and API integrations.
+- Explore AI application development and model inference workflows through practical experimentation.
+- Analyze real-world operational data and develop visualizations to understand session metrics and activity patterns.
+
+---
+
+### 🏫 GM Global &nbsp;|&nbsp; *2023 – 2024 · Udupi*
 > Taught Mathematics, covering quantitative concepts, logical reasoning, problem-solving, and foundational statistical concepts.
 
 ---
